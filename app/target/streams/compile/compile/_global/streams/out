@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mB:\Scala\Homework_1\app\src\main\scala\Main.scala:5:28: not found: type PyramidService[0m
+[0m[[0m[31merror[0m] [0m[0m  val pyramidService = new PyramidService[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mB:\Scala\Homework_1\app\src\main\scala\Main.scala:16:12: not found: value PyramidData[0m
+[0m[[0m[31merror[0m] [0m[0m  val pd = PyramidData(length, width, height)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
