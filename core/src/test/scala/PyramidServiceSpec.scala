@@ -2,7 +2,6 @@ import org.scalatest._
 import org.scalatest.flatspec._
 import org.scalatest.matchers._
 
-import java.awt.Rectangle
 
 class PyramidServiceSpec extends AnyFlatSpec with should.Matchers{
 
